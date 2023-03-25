@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">A passionate hobby developer.</h3>
 
+- My dream job is software engineer
 - 🔭 I’m currently working on **some Minecraft Plugins**
 
 <h3 align="left">Connect with me:</h3>

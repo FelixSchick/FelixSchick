@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">A passionate hobby developer.</h3>
 
-- My dream job is software engineer
+- My goal is to become a professional **software developer** someday, and I'm **working hard** to achieve it.
 - I’m currently working on **some java code**
+- Follow my journey and let's code together!
 
 <h3 align="left">Connect with me:</h3>
 

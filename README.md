@@ -27,6 +27,7 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> 
 </p>
 
+<br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixSchick&layout=compact&theme=dark" />
 

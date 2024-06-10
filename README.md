@@ -9,7 +9,7 @@
 <p align="left">
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/590512370606931969) 
-
+[![Email](https://img.shields.io/badge/Email-%237289DA.svg)](mailto:schick.felix112@gmail.com)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

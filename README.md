@@ -5,6 +5,8 @@
 - I’m currently working on **some java code**
 - Follow my journey and let's code together!
 
+- My favorite technical advice: percussive maintenance
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 

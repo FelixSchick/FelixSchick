@@ -18,7 +18,7 @@ I’m Felix, a hobby developer from Rheinland-Pfalz, Germany, with big aspiratio
 - **Languages:** Java, C++, TypeScript, Kotlin  
 - **Frameworks & Libraries:** Spring Boot, React  
 - **Databases:** MySQL, MongoDB  
-- **Others:** Git, Docker, Arduino, MQTT  
+- **Others:** Git, Docker, Arduino
 
 ## 📫 Connect with Me <a name="connect"></a>
 

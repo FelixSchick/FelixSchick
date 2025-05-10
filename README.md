@@ -24,7 +24,7 @@ I’m Felix, a hobby developer from Rheinland-Pfalz, Germany, with big aspiratio
 
 <p align="center">
   <a href="mailto:felix@example.com"><img src="https://img.shields.io/badge/✉️-Email-informational" alt="Email" /></a>
-  <a href="https://discord.gg/your-discord" target="_blank"><img src="https://img.shields.io/badge/💬-Discord-informational" alt="Discord" /></a>
+  <a href="https://discord.com/users/590512370606931969" target="_blank"><img src="https://img.shields.io/badge/💬-Discord-informational" alt="Discord" /></a>
   <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/🔗-LinkedIn-informational" alt="LinkedIn" /></a>
 </p>
 

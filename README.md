@@ -1,36 +1,79 @@
-<h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">A passionate hobby developer.</h3>
+<div align="center">
+  <h1>👋 Hi, I'm Felix Schick</h1>
+  <p><em>A passionate hobby developer on the journey to professional software development</em></p>
 
-- My goal is to become a professional **software developer** someday, and I'm **working hard** to achieve it.
-- I’m currently working on **some java code**
-- Follow my journey and let's code together!
+  <!-- Badges -->
+  <p>
+    <a href="#projects"><img src="https://img.shields.io/badge/🔭-Pinned%20Projects-blue" alt="Projects badge" /></a>
+    <a href="#technologies"><img src="https://img.shields.io/badge/💻-Tech%20Stack-green" alt="Technologies badge" /></a>
+    <a href="https://github.com/FelixSchick" target="_blank"><img src="https://img.shields.io/github/followers/FelixSchick?label=Follow&style=social" alt="GitHub followers" /></a>
+  </p>
+</div>
 
-- My favorite technical advice: percussive maintenance
+## 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+I’m Felix, a hobby developer from Rheinland-Pfalz, Germany, with big aspirations to become a professional software engineer. I love tackling challenging problems and continuously learning new technologies. My current focus is on **Java**, **TypeScript**, and building robust backend services and web applications.
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/590512370606931969) 
-[![Email](https://img.shields.io/badge/Email-%237289DA.svg)](mailto:schick.felix112@gmail.com)
+
+## 🌟 Table of Contents
+
+1. [Pinned Projects](#projects)
+2. [Technologies & Tools](#technologies)
+3. [Getting Started](#getting-started)
+4. [Connect with Me](#connect)
+
+
+## 📌 Pinned Projects <a name="projects"></a>
+
+### 1. FFW-OG
+**Tech:** CSS  
+A modern, responsive landing page template with a focus on performance and accessibility. 
+[View on GitHub](https://github.com/FelixSchick/FFW-OG)
+
+### 2. smarthome-brain
+**Tech:** Java, MQTT  
+A home automation brain that orchestrates smart devices using a lightweight message broker.  
+[View on GitHub](https://github.com/FelixSchick/smarthome-brain)
+
+### 3. Discord-Quiz-Bot
+**Tech:** Java, Discord4J  
+A fun quiz bot for Discord servers, featuring dynamic questions and leaderboards.  
+[View on GitHub](https://github.com/FelixSchick/Discord-Quiz-Bot)
+
+### 4. SchickAPI
+**Tech:** Java, Spring Boot  
+My first RESTful API project demonstrating CRUD operations, authentication, and OpenAPI documentation.  
+[View on GitHub](https://github.com/FelixSchick/SchickAPI)
+
+
+## 🛠️ Technologies & Tools <a name="technologies"></a>
+
+- **Languages:** Java, C++, TypeScript, Kotlin  
+- **Frameworks & Libraries:** Spring Boot, React  
+- **Databases:** MySQL, MongoDB  
+- **Others:** Git, Docker, Arduino, MQTT  
+
+
+## ⚙️ Getting Started <a name="getting-started"></a>
+
+1. **Fork** this repository.
+2. **Clone** it locally:
+   ```bash
+   git clone https://github.com/FelixSchick/FelixSchick.git
+   cd FelixSchick
+   ```
+3. **Explore** the project folders and check out the `README.md` inside each project for setup instructions.
+4. **Contribute** by opening issues or sending pull requests.
+
+
+## 📫 Connect with Me <a name="connect"></a>
+
+<p align="center">
+  <a href="mailto:felix@example.com"><img src="https://img.shields.io/badge/✉️-Email-informational" alt="Email" /></a>
+  <a href="https://discord.gg/your-discord" target="_blank"><img src="https://img.shields.io/badge/💬-Discord-informational" alt="Discord" /></a>
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/🔗-LinkedIn-informational" alt="LinkedIn" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  </a>
-  <a href="https://typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height="40"/> </a> 
-</p>
+---
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixSchick&layout=compact&theme=dark" />
-
-
+*Built with ❤️ for java*

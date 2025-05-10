@@ -4,7 +4,6 @@
 
   <!-- Badges -->
   <p>
-    <a href="#projects"><img src="https://img.shields.io/badge/🔭-Pinned%20Projects-blue" alt="Projects badge" /></a>
     <a href="#technologies"><img src="https://img.shields.io/badge/💻-Tech%20Stack-green" alt="Technologies badge" /></a>
     <a href="https://github.com/FelixSchick" target="_blank"><img src="https://img.shields.io/github/followers/FelixSchick?label=Follow&style=social" alt="GitHub followers" /></a>
   </p>
